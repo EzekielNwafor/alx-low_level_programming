@@ -1,0 +1,10 @@
+int _putchar(char c);
+char *__memset(char *s. char b. unsigned int n);
+char *_memcpy(char *dest, char *src,unsigned int n);
+char *_strchr(char *s, char c);
+unsigned int _strspn(char *s, char *accept);
+char *strpbrk(char *s, char *accept);
+char *_strstr(char *haystack, char 8needle);
+void print_chessboard(char (*a0[8]);
+void print_diagsum(int *a, int size);
+void set-string(char **s, char *to);
